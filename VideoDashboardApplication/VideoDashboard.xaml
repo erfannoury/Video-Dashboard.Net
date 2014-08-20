@@ -1,0 +1,8 @@
+﻿<Window x:Class="SampleApplication.VideoDashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Video Dashboard" Height="700" Width="1000" WindowState="Maximized" Loaded="Window_Loaded">
+    <ScrollViewer HorizontalScrollBarVisibility="Auto"  VerticalScrollBarVisibility="Auto">
+        <StackPanel Name="mainStack" HorizontalAlignment="Stretch" Height="Auto" VerticalAlignment="Stretch" Width="Auto" Orientation="Horizontal"/>
+    </ScrollViewer>
+</Window>

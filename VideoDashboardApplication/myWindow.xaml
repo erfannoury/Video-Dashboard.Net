@@ -1,0 +1,11 @@
+﻿<Window x:Class="SampleApplication.myWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="myWindow" Height="600" Width="800" Loaded="Window_Loaded">
+    <Grid Name="grid">
+        <WrapPanel Name="panel">
+        </WrapPanel>
+        <Label Name="lbl" Content="" Margin="30,526.4,655.2,10"/>
+        <Slider Name="slider" HorizontalAlignment="Left" VerticalAlignment="Top" Width="427.2" Margin="217.2,529.2,0,-497.2"/>
+    </Grid>
+</Window>
