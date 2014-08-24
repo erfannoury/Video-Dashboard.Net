@@ -6,3 +6,8 @@ In this application user can control the play flow of all videos and also each v
 
 
 Note that this project is a _WIP_, so if you encountered any bugs or wanted a feature to be added, submit an issue.
+
+
+Releases
+========
+* [Proof of concept release](https://github.com/erfannoury/Video-Dashboard.Net/releases/tag/v0.1.0)
